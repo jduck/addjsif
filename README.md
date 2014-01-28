@@ -2,8 +2,6 @@
 
 Metasploit Exploit Module for the Android addJavascriptInterface Issue (MITM)
 
-Please do not share, see the LICENSE.
-
 
 ## Motivation:
 
