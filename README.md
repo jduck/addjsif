@@ -10,7 +10,7 @@ Please do not share, see the LICENSE.
 This project was executed in order to bring more attention to the severity of this issue.
 
 
-## What I still need:
+## What is still needed:
 
 More interface names per the list in the generate_getjsif method. These are the second (last) argument to the addJavascriptInterface function in the vulnerable WebView consumers. This will ensure the exploit works on the maximum number of vulnerable applications.
 
