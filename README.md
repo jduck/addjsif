@@ -1,13 +1,11 @@
 # addjsif
 
-Metasploit Exploit Module (MITM) for the Android addJavascriptInterface Issue that plagues Ad network framworks in Android apps. For more information see the references in the module itself.
+Metasploit Exploit Module (MITM) for the Android addJavascriptInterface Issue that plagues Ad network framworks in Android apps. For more information, check out "[On the WebView addJavascriptInterface Saga](http://www.droidsec.org/news/2014/02/26/on-the-webview-addjsif-saga.html)" and refer to the references in the module itself.
 
 
 ## Motivation:
 
 This project was executed in order to bring more attention to the severity of this issue.
-
-For a lengthy discussion of these issues, check out "[On the WebView addJavascriptInterface Saga](http://www.droidsec.org/news/2014/02/26/on-the-webview-addjsif-saga.html)".
 
 
 ## What is still needed:
